@@ -4,7 +4,7 @@ I'm a junior software engineer and love to build web and mobile applications. He
 
 <br/>
 
-### Code Languages**
+### Code Languages
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50" height="50" /> &nbsp;
 <img src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png" width="150" height="50" /> &nbsp;
@@ -17,9 +17,9 @@ I'm a junior software engineer and love to build web and mobile applications. He
 
 ### Framework | Platform
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="150" height="50" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/fr/6/67/Jakarta_ee_logo_stacked.png" width="50" height="50" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="150" height="25" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" width="200" height="50" /> &nbsp;
-<img src="https://en.wikipedia.org/wiki/Jakarta_EE#/media/File:Jakarta_ee_logo_schooner_color_stacked_default.svg" width="50" height="50" /> &nbsp;
 
 
 
