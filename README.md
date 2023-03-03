@@ -14,7 +14,10 @@ Here below you'll find some of the languages i used to developp my school projec
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" /> &nbsp;
 
 
+
 **Framework | Platform**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="150" height="50" /> &nbsp;
 
 
 
