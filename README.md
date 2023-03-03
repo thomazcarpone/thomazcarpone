@@ -2,7 +2,6 @@
 
 I'm a junior software engineer and love to build web and mobile applications. Here below you'll find some of the languages/platform I used to developp my school projects. 
 
-<br/>
 
 ### Code Languages
 
@@ -13,7 +12,7 @@ I'm a junior software engineer and love to build web and mobile applications. He
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" width="100" height="50" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50" /> &nbsp;
 
-<br/>
+
 
 ### Framework | Platform
 
