@@ -6,7 +6,7 @@ I'm a junior software engineer and love to build web and mobile applications. He
 ### Code Languages
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50" height="50" /> &nbsp;
-<img src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png" width="150" height="50" /> &nbsp;
+<img src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png" width="110" height="35" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width="50" height="50" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" width="100" height="50" /> &nbsp;
