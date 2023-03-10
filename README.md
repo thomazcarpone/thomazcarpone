@@ -20,5 +20,9 @@ I'm a junior software engineer and love to build web and mobile applications. He
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="150" height="25" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" width="120" height="35" /> &nbsp;
 
+### Databases
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="120" height="25" /> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="120" height="25" /> &nbsp;
 
 
